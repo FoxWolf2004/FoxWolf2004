@@ -14,7 +14,7 @@
 I am a frontend developer from Russia.
 - i not have  a IT work but i wish job to frontend Developer )
 - :zap: In my free time, and not always just in my free time, I study frontend more deeply.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nikhan911-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhan911/) or <img alt="Static Badge" src="https://img.shields.io/badge/Telegram--blue"> 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nikhan911-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhan911/) or <a href="https://t.me/nikhan911"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram--blue"> </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
