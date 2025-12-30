@@ -20,7 +20,6 @@ I am a frontend developer from Russia.
     <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%" height="auto" >
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%" height="auto"  >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%" height="auto"  >
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%"  height="auto" > 
 </div>
 
 ### 🎯 I'm studying right now :
@@ -28,7 +27,7 @@ I am a frontend developer from Russia.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%" height="auto"  >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="5%">
 </div>
-    
+
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.zcy.dev/api?username=FoxWolf2004)](https://github.com/anuraghazra/github-readme-stats)
 
