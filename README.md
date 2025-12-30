@@ -1,4 +1,4 @@
-  <h1 align = "center"  style="font-size: 3em;  font-weight: bold;">Hi there i an FoxWolf👋</h1>
+  <h1 align = "center"  style="font-size: 3em;  font-weight: bold;">Hi there i am FoxWolf👋</h1>
 
   <div align = "center" >
       <img src="https://avatars.githubusercontent.com/u/153081120?v=4" alt="Avatar From GitHub Profile" " width="20%" >
