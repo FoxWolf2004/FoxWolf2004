@@ -3,8 +3,9 @@
   <div align = "center" >
       <img src="https://avatars.githubusercontent.com/u/153081120?v=4" alt="Avatar From GitHub Profile" " width="20%" >
   </div> 
+  
 <div align="center" >
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF5ejZvbHBoNzdhNzVsdDhoOTF5cTVyYXBjcnh6bTZuaGpvajJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="80%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF5ejZvbHBoNzdhNzVsdDhoOTF5cTVyYXBjcnh6bTZuaGpvajJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" />
 </div>
 
 
