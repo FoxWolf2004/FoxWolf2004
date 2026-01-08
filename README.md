@@ -32,5 +32,3 @@ I am a frontend developer from Russia.
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.zcy.dev/api?username=FoxWolf2004)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxWolf2004)](https://github.com/anuraghazra/github-readme-stats)
